@@ -22,7 +22,7 @@ to make via an [issue](https://github.com/sigstore/timestamp-authority/issues).
 
 ## Commit Message Guidelines
 
-We follow the commit formatting recommendations found on [Chris Beams' How to Write a Git Commit Message article]((https://chris.beams.io/posts/git-commit/).
+We follow the commit formatting recommendations found on [Chris Beams' How to Write a Git Commit Message article](https://chris.beams.io/posts/git-commit/).
 
 Well formed commit messages not only help reviewers understand the nature of
 the Pull Request, but also assists the release process where commit messages
